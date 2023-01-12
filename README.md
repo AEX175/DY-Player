@@ -1,2 +1,2 @@
-# DY-Player
-Documentation
+
+<strong>Dy Player Documentation</strong>
