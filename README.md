@@ -24,5 +24,10 @@
       <li>Descargamos la utlima Version desde la pagina Oficial <a href="https://aexstudio.tk/DY-Player/">Click Aqui</a></li>
       <li>Descomprimimos el Archivo .ZIP</li>
       <li>abrimos el Archivo <code>config.js</code></li>
+      <li>Cambiamos las fuentes de video y el poster del video a su video que requieran<li>
     </ol>  
-    
+    <strong>Ejemplo:</strong>
+    ```PHP
+   const source = "Link de Video";
+   const image = "Link de la Imagen";
+    ```
