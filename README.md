@@ -16,7 +16,7 @@
     <li>Opera Gx</li>
     <li>Mozila FireFox</li>
     <li>Brave</li>
-<ul>
+</ul>
     <h1>Instalacion<h1>
       
     DY player  esta basado en <strong>HTML</strong>,<strong> CSS</strong> Y <strong>Javascript</strong></p>
