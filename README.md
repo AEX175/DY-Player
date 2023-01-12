@@ -26,8 +26,8 @@
       <li>abrimos el Archivo <code>config.js</code></li>
       <li>Cambiamos las fuentes de video y el poster del video a su video que requieran<li>
     </ol>  
-    <strong>Ejemplo:</strong>
+    <strong>Ejemplo:</strong><br>
    <pre>
-   const source = "Link de Video";
-   const image = "Link de la Imagen";
+   const <var>source</var> = "Link de Video";
+   const <var>image<var> = "Link de la Imagen";
    </pre>
