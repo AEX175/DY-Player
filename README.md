@@ -9,10 +9,19 @@
   ## Compatibilidad:
   <ul>
     <li>Google</li>
+    <li>Microsoft Edge</li>
     <li>Chrome</li>
+    <li>Safari</li>
     <li>Opera</li>
     <li>Opera Gx</li>
     <li>Mozila FireFox</li>
     <li>Brave</li>
     <strong>ETC</strong>
   <ul>
+#Instalacion
+    <p>DY player  esta basado en *HTML*,*CSS* Y *Javascript*</p>
+    <ol>
+      <li>Descargamos la utlima Version desde la pagina Oficial [Link](https://aexstudio.tk/DY-Player/ "Descargar")</li>
+      <li></li>
+    </ol>  
+    
