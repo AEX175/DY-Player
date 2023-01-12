@@ -4,7 +4,7 @@
 ## Version 1.0
 
 <p><strong>DY</strong> es un reproductor de video y audio compatible con cualquier acrchivo de video</p>
-<p>Esta herramienta es muy útil para ver videos desde diferentes lugares o dispositivos sin necesidad de tener que descargarlos y almacenarlos en cada uno. Es una forma sencilla y rápida de ver videos.<p>
+<p>Esta herramienta es muy útil para ver videos desde diferentes lugares o dispositivos sin necesidad de tener que descargarlos y almacenarlos en cada uno. Es una forma sencilla y rápida de ver videos.</p>
   
   ## Compatibilidad:
   <ul>
@@ -27,7 +27,7 @@
       <li>Cambiamos las fuentes de video y el poster del video a su video que requieran<li>
     </ol>  
     <strong>Ejemplo:</strong><br>
-   <pre>
-   <p style="color:#41E2E2;">const<p> <var style="color:blue;">source</var> = "Link de Video";
-   <p style="color:#41E2E2;">const<p> <var style="color:blue;">image<var> = "Link de la Imagen";
-   </pre>
+   ```JAVASCRIPT
+   const source  = "Link de Video";
+   const image  = "Link de la Imagen";
+   ```
