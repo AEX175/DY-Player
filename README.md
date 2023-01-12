@@ -18,7 +18,8 @@
     <li>Brave</li>
     <strong>ETC</strong>
   </ul>
-    <h1>Instalacion</h1>
+   # Instalacion
+   
     <p>DY player  esta basado en <strong>HTML</strong>,<strong> CSS</strong> Y <strong>Javascript</strong></p>
     <ol type="1">
       <li>Descargamos la utlima Version desde la pagina Oficial <a href="https://aexstudio.tk/DY-Player/">Click Aqui</a></li>
@@ -27,7 +28,6 @@
       <li>Cambiamos las fuentes de video y el poster del video a su video que requieran<li>
     </ol>  
     <strong>Ejemplo:</strong><br>
-    # hp
    ```JAVASCRIPT
    const source  = "Link de Video";
    const image  = "Link de la Imagen";
