@@ -9,4 +9,10 @@
   ## Compatibilidad:
   <ul>
     <li>Google</li>
-    <ul>
+    <li>Chrome</li>
+    <li>Opera</li>
+    <li>Opera Gx</li>
+    <li>Mozila FireFox</li>
+    <li>Brave</li>
+    <strong>ETC</strong>
+  <ul>
