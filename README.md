@@ -27,7 +27,7 @@
       <li>Cambiamos las fuentes de video y el poster del video a su video que requieran<li>
     </ol>  
     <strong>Ejemplo:</strong>
-   <kbd>
+   <pre>
    const source = "Link de Video";
    const image = "Link de la Imagen";
-   </kbd>
+   </pre>
