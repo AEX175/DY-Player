@@ -7,8 +7,8 @@
 <p>Esta herramienta es muy útil para ver videos desde diferentes lugares o dispositivos sin necesidad de tener que descargarlos y almacenarlos en cada uno. Es una forma sencilla y rápida de ver videos.</p>
   
   ## Compatibilidad:
-  <ul>
-    <li>Google</li>
+<ul>
+    <li>Google<li>
     <li>Microsoft Edge</li>
     <li>Chrome</li>
     <li>Safari</li>
@@ -17,10 +17,10 @@
     <li>Mozila FireFox</li>
     <li>Brave</li>
     <strong>ETC</strong>
-  </ul>
+<ul>
+    
    # Instalacion
-   
-    <p>DY player  esta basado en <strong>HTML</strong>,<strong> CSS</strong> Y <strong>Javascript</strong></p>
+    DY player  esta basado en <strong>HTML</strong>,<strong> CSS</strong> Y <strong>Javascript</strong></p>
     <ol type="1">
       <li>Descargamos la utlima Version desde la pagina Oficial <a href="https://aexstudio.tk/DY-Player/">Click Aqui</a></li>
       <li>Descomprimimos el Archivo .ZIP</li>
@@ -28,7 +28,8 @@
       <li>Cambiamos las fuentes de video y el poster del video a su video que requieran<li>
     </ol>  
     <strong>Ejemplo:</strong><br>
-   ```JAVASCRIPT
+   <pre>
    const source  = "Link de Video";
    const image  = "Link de la Imagen";
-   ```
+   </pre>
+ 
