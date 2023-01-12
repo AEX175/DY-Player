@@ -21,7 +21,7 @@
 #Instalacion
     <p>DY player  esta basado en *HTML*,*CSS* Y *Javascript*</p>
     <ol type="1">
-      <li>Descargamos la utlima Version desde la pagina Oficial [Link](https://aexstudio.tk/DY-Player/ "Descargar")</li>
+      <li>Descargamos la utlima Version desde la pagina Oficial <a href="https://aexstudio.tk/DY-Player/">Click Aqui</a></li>
       <li></li>
     </ol>  
     
