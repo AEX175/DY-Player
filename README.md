@@ -8,7 +8,7 @@
   
   ## Compatibilidad:
 <ul>
-    <li>Google<li>
+    <li>Google</li>
     <li>Microsoft Edge</li>
     <li>Chrome</li>
     <li>Safari</li>
