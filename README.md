@@ -1,6 +1,6 @@
 
-#<strong>Dy Player Documentation</strong>
+# <strong>Dy Player Documentation</strong>
 
-##Version 1.0
+## Version 1.0
 
 
