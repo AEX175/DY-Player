@@ -22,6 +22,7 @@
     <p>DY player  esta basado en <strong>HTML</strong>,<strong> CSS</strong> Y <strong>Javascript</strong></p>
     <ol type="1">
       <li>Descargamos la utlima Version desde la pagina Oficial <a href="https://aexstudio.tk/DY-Player/">Click Aqui</a></li>
-      <li></li>
+      <li>Descomprimimos el Archivo .ZIP</li>
+      <li>abrimos el Archivo `config.js`</li>
     </ol>  
     
