@@ -28,6 +28,6 @@
     </ol>  
     <strong>Ejemplo:</strong><br>
    <pre>
-   const <var>source</var> = "Link de Video";
-   const <var>image<var> = "Link de la Imagen";
+   <p style="color:#41E2E2;">const<p> <var style="color:blue;">source</var> = "Link de Video";
+   <p style="color:#41E2E2;">const<p> <var style="color:blue;">image<var> = "Link de la Imagen";
    </pre>
