@@ -22,7 +22,7 @@
           <li> Para esto es necesario utilizar la libreria dyplayer.js <pre></pre></li>
           <li>Importamos la libreria  mediante script <pre><script src="https://aexstudio.tk/DY-Player/"></script></pre> </li>
           <li>Inicalizamos <strong>Dynamo Player</strong> llamando la fucnion <code>Dynamo()</code></li>
-          <li>Cambiamos las fuentes de video y el poster del video a su video que requieran</li> 
+          <li>Configuracion de video eh implementacion</li> 
         <strong>Ejemplo:</strong><br>
        <pre>
        const source  = "Link de Video";
