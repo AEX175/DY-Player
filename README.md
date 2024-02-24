@@ -19,14 +19,17 @@
           
    DY player  esta basado en <strong>HTML</strong>,<strong> CSS</strong> Y <strong>Javascript</strong></p>
         <ol type="1">
-          <li> Para esto es necesario utilizar la libreria dyplayer.js <pre></pre></li>
+          <li> Para esto es necesario utilizar la libreria dyplayer.js <pre>https://aexstudio.tk/DY-Player/</pre></li>
           <li>Importamos la libreria  mediante script <pre><script src="https://aexstudio.tk/DY-Player/"></script></pre> </li>
           <li>Inicalizamos <strong>Dynamo Player</strong> llamando la fucnion <code>Dynamo()</code></li>
           <li>Configuracion de video eh implementacion</li> 
-        <strong>Ejemplo:</strong><br>
+        <strong>Los indicadores parentID y source son requeridos/obligatorios</strong><br>
        <pre>
-       const source  = "Link de Video";
-       const image  = "Link de la Imagen";
+       Dynamo({
+    parentId: "DY_Player",
+     source: "sample.mkv",
+    }
+    )
        </pre>
     <li>Subir el archvivo al servidor web de preferencia</li>
 </ol> 
