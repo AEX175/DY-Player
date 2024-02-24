@@ -19,9 +19,9 @@
           
    DY player  esta basado en <strong>HTML</strong>,<strong> CSS</strong> Y <strong>Javascript</strong></p>
         <ol type="1">
-          <liPara esto es necesario utilizar la libreria dyplayer.js <a href="https://aexstudio.tk/DY-Player/">Click Aqui</a></li>
+          <li> Para esto es necesario utilizar la libreria dyplayer.js <pre></pre></li>
           <li>Importamos la libreria  mediante script <pre><script src="https://aexstudio.tk/DY-Player/"></script></pre> </li>
-          <li>abrimos el Archivo <code>config.js</code></li>
+          <li>Inicalizamos <strong>Dynamo Player</strong> llamando la fucnion <code>Dynamo()</code></li>
           <li>Cambiamos las fuentes de video y el poster del video a su video que requieran</li> 
         <strong>Ejemplo:</strong><br>
        <pre>
